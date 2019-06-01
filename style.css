@@ -1,0 +1,19 @@
+/*
+Theme Name: Pico Pixel Web
+Theme URI: http://www.picopixelweb.com
+Author: Pico Pixel Web
+Author URI: 
+Description: Pagina Web de Pico Pixel web
+Version: 1.0
+*/
+
+.btn-primary {
+	background-color:transparent;
+	color: #226fc1;
+	border: 2px solid #226fc1;
+	font-size:20px;
+	text-transform: uppercase;
+	border-radius: 0px;	
+}
+/*
+*/
