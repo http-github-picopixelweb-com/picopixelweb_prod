@@ -12,7 +12,7 @@
 
         <div class="animated slideInRight delay-1s">
 
-            <h4>Tú empresa tú Web</h4>
+            <h4>Tu empresa tu Web</h4>
 
             <p class="animated slideInRight delay-2s">El futuro de las compras está en Internet.</p>
 
@@ -169,7 +169,7 @@
 
 
 
-<h2 class="titulo2 d-block bg-dark"><strong>Como empezar a tener tu WEB</strong></h2>
+<h2 class="titulo2 d-block bg-dark"><strong>Cómo empezar a tener tu WEB</strong></h2>
 
 <div id="accordion">
 
@@ -187,7 +187,7 @@
 
 				<button class="btn btn-link btn-block" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 
-					Comenzar es <strong>Es Muy Facil!</strong>
+					Comenzar es <strong>Es Muy Fácil!</strong>
 
 				</button>
 
@@ -201,7 +201,7 @@
 
 			<div class="card-body texto">
 
-				Has tu consulta a través del <strong>Formulario de Contacto</strong>. Deberás  comentarnos que tipo de pagina necesitas.
+				Has tu consulta a través del <strong>Formulario de Contacto</strong>. Deberás  comentarnos que tipo de página necesitas.
 
 				Luego nos pondremos en contacto contigo para que nos cuentes a qué te dedicas y qué quieres mostrar en tu sitio.
 
@@ -209,7 +209,7 @@
 
 				<br>
 
-				<strong>"No debes preocuparte por nada, nosotros hacemos tu sitio por ti"</strong>.
+				<strong>"No debes preocuparte por nada, nosotros hacemos tu sitio por vos"</strong>.
 
 			</div>
 
@@ -225,7 +225,7 @@
 
 				<button class="btn btn-link collapsed btn-block" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 
-					Cuanto debes pagar de Mantenimiento
+					Cuánto debes pagar de Mantenimiento
 
 				</button>
 
@@ -241,7 +241,7 @@
 
 				<br>
 
-		No quedarás atado a ningun costo de mantenimiento mensual.
+		No quedarás atado a ningún costo de mantenimiento mensual.
 
 			</div>
 
@@ -259,7 +259,7 @@
 
 				<button class="btn btn-link collapsed btn-block" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 
-					¿Cuantas veces podras modificar tu pagina WEB?
+					¿Cuántas veces podrás modificar tu pagina WEB?
 
 				</button>
 
@@ -297,7 +297,7 @@
 
 				<button class="btn btn-link collapsed btn-block" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 
-					Tambien tienes la posibilidad de tener tu Tienda OnLine
+					También tienes la posibilidad de tener tu Tienda OnLine
 
 				</button>
 
@@ -339,7 +339,7 @@
 
 				<button class="btn btn-link collapsed btn-block" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 
-					¿Como puedes Pagar el Servicio?
+					¿Cómo puedes Pagar el Servicio?
 
 				</button>
 
@@ -351,8 +351,8 @@
 
 			<div class="card-body texto">
 
-				 Lo podes hacer a traves de deposito bancario CBU 00700764 30004101886896 o
-				 a traves de mercadopago..
+				 Lo podes hacer a través de deposito bancario CBU 00700764 30004101886896 o
+				 a través de mercadopago..
 
 			</div>
 
@@ -522,7 +522,7 @@
 
 		<div class="card-img-overlay somos animated" id="somos">
 
-			<h5 class="card-title">Quienes Somos</h5>
+			<h5 class="card-title">Quiénes Somos</h5>
 
 			<p class="card-text">Pico Pixel Web nace de la unión de profesionales dedicados a sistemas de información <br>
 
@@ -540,7 +540,7 @@
 
 			<p class="card-text">Garantizamos que tu experiencia con nosotros será sumamente amigable,<br>
 
-				tendras respuesta inmediata a tus inquietudes,<br> y trabajaremos para tu sitio web cumpla con todas
+				tendrás respuesta inmediata a tus inquietudes,<br> y trabajaremos para tu sitio web cumpla con todas
 
 				tus espectativas.
 
