@@ -56,7 +56,7 @@
 
 							FORMULARIO DE CONTACTO<br>
 
-							LINK A REDES SOCIALES</p>
+							LINK A REDES SOCIALES </p>
 
 					<p class="card-text"><small class="text-muted">A un precio final de $3500<br><br><br><br><br></small></p>
 					<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-96a8e95e-1555-40e3-880e-937b3ed56c5d" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
