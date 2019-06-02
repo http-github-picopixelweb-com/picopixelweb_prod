@@ -47,16 +47,18 @@
 							DOMINIO.COM<br>
 
 							ADAPTABLE A DISPOSITIVOS<br>
-
-							
-
+				
 							25 IMAGENES<br>
 
 							ALTA EN GOOGLE<br>
 
 							FORMULARIO DE CONTACTO<br>
 
-							LINK A REDES SOCIALES </p>
+							LINK A REDES SOCIALES <br>
+							<br>
+							<br>
+							<br>
+							</p>
 
 					<p class="card-text"><small class="text-muted">A un precio final de $3500<br><br><br><br><br></small></p>
 					<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-96a8e95e-1555-40e3-880e-937b3ed56c5d" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
@@ -94,7 +96,15 @@
 
 								FORMULARIO DE CONTACTO<br>
 
-								LINK A REDES SOCIALES</p>
+								LINK A REDES SOCIALES<br>
+
+								<br>
+
+								<br>
+
+								<br>
+
+								</p>
 
 						<p class="card-text"><small class="text-muted">A un precio final de $6000<br><br><br><br><br></small></p>
 						<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-de7d424d-5fc9-44bd-9abe-b3b04472a99b" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
