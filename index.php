@@ -8,7 +8,7 @@
 
 
 
-    <div class="contenedor-header animated fadeInDown">
+    <div class="contenedor-header container-fluid animated fadeInDown">
 
         <div class="animated slideInRight delay-1s">
 
@@ -32,131 +32,155 @@
 
 	<!--*************************************promo***************************-->	
 
-		<div  id="promo" class="promo container animated ">
+	<div  id="promo" class="promo container-fluid animated ">
+			<div class="row">
 
-			<div  class="card card-promo mb-3 shadow-lg ">
+						<div  class="card card-promo mb-3 shadow-lg col-sm-12 col-md-6 col-lg-3">
+								<div class="card-body ">
+									<h5 class="card-title animated fadeIn ">Curriculum Digital</h5>
+									<p class="card-text">
+														
+														CV WEB<br>
+														PRESENTACIÓN PROFESIONAL<br>
 
-				<div class="card-body ">
-
-					<h5 class="card-title animated fadeIn infinite">Promo Tú Web Now</h5>
-
-					<p class="card-text">Te ofrecemos Diseñar tú Web + Publicarla en el Internet</p>
-
-					<p class="card-text">4 SECCIONES<br>
-
-							DOMINIO.COM<br>
-
-							ADAPTABLE A DISPOSITIVOS<br>
-				
-							25 IMAGENES<br>
-
-							ALTA EN GOOGLE<br>
-
-							FORMULARIO DE CONTACTO<br>
-
-							LINK A REDES SOCIALES </p>
-
-					<p class="card-text"><small class="text-muted">A un precio final de $3500<br><br><br><br><br></small></p>
-					<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-96a8e95e-1555-40e3-880e-937b3ed56c5d" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
+														ADAPTABLE A DISPOSITIVOS<br>
+														
+														ALTA EN GOOGLE<br>
+														FORMULARIO DE CONTACTO<br>
+														LINK A REDES SOCIALES</p>
+									<p class="card-text"><small class="text-muted">A un precio final de $2000<br><br><br><br><br><br><br><br><br></small></p>
+									<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-fb3b876e-8e38-497a-87f0-1da5ca30713c" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
 <script type="text/javascript">
 (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
 </script>
-
-				</div>
-
-				<img src="<?php bloginfo('template_url');?>/img/bannerping.jpg" class="card-img-top" alt="...">
-
-			</div>
-
-			<div  class="card card-promo mb-3 shadow-lg ">
-
-					<div class="card-body ">
-
-						<h5 class="card-title animated fadeIn ">Web Pro</h5>
-
-						<p class="card-text">PÁGINA WEB DE 8 SECCIONES <br>
-
-								ANUNCIOS PROMOCIONALES<br>
-
-								GOOGLE MAPS<br>
-
-								DOMINIO .COM<br>
-
-								ADAPTABLE A DISPOSITIVOS<br>
-
-								45 IMAGENES<br>
-
-								MAILS ILIMITADOS<br>
-
-								ALTA EN GOOGLE<br>
-
-								FORMULARIO DE CONTACTO<br>
-
-								LINK A REDES SOCIALES</p>
-
-						<p class="card-text"><small class="text-muted">A un precio final de $6000<br><br><br><br><br></small></p>
-						<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-de7d424d-5fc9-44bd-9abe-b3b04472a99b" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
-<script type="text/javascript">
-(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-</script>
-
-					</div>
-
-					<img src="<?php bloginfo('template_url');?>/img/bannerStar.jpg" class="card-img-top" alt="...">
-
-				</div>
-
-				<div  class="card card-promo mb-3 shadow-lg ">
-
-						<div class="card-body ">
-
-							<h5 class="card-title animated fadeIn ">Web Premiun</h5>
-
-							<p class="card-text">SITIO SEGURO - CERTIFICADO SSL <br>
-
-									TIENDA ONLINE O INSTITUCIONAL<br>
-
-									PÁGINA WEB DE 15 SECCIONES<br>
-
-									CARRITO DE COMPRAS<br>
-
-									COBROS ONLINE<br>
-
-									HASTA 20 PRODUCTOS<br>
-
-									BANNERS ANIMADOS<br>
-
-									VIDEO DE FONDO<br>
-
-									GOOGLE MAPS<br>
-
-									ADAPTABLE A DISPOSITIVOS<br>
-
-									150 IMAGENES<br>
-
-									ALTA EN GOOGLE<br>
-
-									FORMULARIO DE CONTACTO<br>
-
-									LINK A REDES SOCIALES</p>
 
 									
-							<p class="card-text"><small class="text-muted">A un precio final de $10000</small></p>
-							<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-1dcd4ec7-23a3-49b6-b947-ca7026dd8b17" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
-<script type="text/javascript">
-(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-</script>
+									
+						</div>
+
+
+						<div  class="card card-promo mb-3 shadow-lg col-sm-12 col-md-6 col-lg-3">
+
+							<div class="card-body ">
+
+								<h5 class="card-title animated fadeIn infinite">Promo Tú Web Now</h5>
+
+								<p class="card-text">Te ofrecemos Diseñar tú Web + Publicarla en el Internet</p>
+
+								<p class="card-text">4 SECCIONES<br>
+
+										DOMINIO.COM<br>
+
+										ADAPTABLE A DISPOSITIVOS<br>
+							
+										25 IMAGENES<br>
+
+										ALTA EN GOOGLE<br>
+
+										FORMULARIO DE CONTACTO<br>
+
+										LINK A REDES SOCIALES </p>
+
+								<p class="card-text"><small class="text-muted">A un precio final de $3500<br><br><br><br></small></p>
+								<a id="btn-pago" mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-96a8e95e-1555-40e3-880e-937b3ed56c5d" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
+								<script type="text/javascript">
+								(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+								</script>
+
+							</div>
+
+							<img src="<?php bloginfo('template_url');?>/img/bannerping.jpg" class="card-img-top" alt="...">
 
 						</div>
 
-						<img src="<?php bloginfo('template_url');?>/img/bannerPro.jpg" class="card-img-top" alt="...">
+						<div  class="card card-promo mb-3 shadow-lg col-sm-12 col-md-6 col-lg-3">
 
-					</div>
+							<div class="card-body ">
 
-					
+								<h5 class="card-title animated fadeIn ">Web Pro</h5>
 
+								<p class="card-text">PÁGINA WEB DE 8 SECCIONES <br>
+
+										ANUNCIOS PROMOCIONALES<br>
+
+										GOOGLE MAPS<br>
+
+										DOMINIO .COM<br>
+
+										ADAPTABLE A DISPOSITIVOS<br>
+
+										45 IMAGENES<br>
+
+										MAILS ILIMITADOS<br>
+
+										ALTA EN GOOGLE<br>
+
+										FORMULARIO DE CONTACTO<br>
+
+										LINK A REDES SOCIALES</p>
+
+								<p class="card-text"><small class="text-muted">A un precio final de $6000<br><br><br><br><br></small></p>
+								<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-de7d424d-5fc9-44bd-9abe-b3b04472a99b" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
+								<script type="text/javascript">
+								(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+								</script>
+
+							</div>
+
+							<img src="<?php bloginfo('template_url');?>/img/bannerStar.jpg" class="card-img-top" alt="...">
+
+						</div>
+
+						<div  class="card card-promo mb-3 shadow-lg col-sm-12 col-md-6 col-lg-3">
+
+								<div class="card-body ">
+
+									<h5 class="card-title animated fadeIn ">Web Premiun</h5>
+
+									<p class="card-text">SITIO SEGURO - CERTIFICADO SSL <br>
+
+											TIENDA ONLINE O INSTITUCIONAL<br>
+
+											PÁGINA WEB DE 15 SECCIONES<br>
+
+											CARRITO DE COMPRAS<br>
+
+											COBROS ONLINE<br>
+
+											HASTA 20 PRODUCTOS<br>
+
+											BANNERS ANIMADOS<br>
+
+											VIDEO DE FONDO<br>
+
+											GOOGLE MAPS<br>
+
+											ADAPTABLE A DISPOSITIVOS<br>
+
+											150 IMAGENES<br>
+
+											ALTA EN GOOGLE<br>
+
+											FORMULARIO DE CONTACTO<br>
+
+											LINK A REDES SOCIALES</p>
+
+											
+									<p class="card-text"><small class="text-muted">A un precio final de $10000</small></p>
+									<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=39635882-1dcd4ec7-23a3-49b6-b947-ca7026dd8b17" name="MP-payButton" class='green-ar-l-rn-arall'>Pagar</a>
+									<script type="text/javascript">
+									(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+									</script>
+
+								</div>
+
+								<img src="<?php bloginfo('template_url');?>/img/bannerPro.jpg" class="card-img-top" alt="...">
+
+						</div>
+
+							
+			</div>
 		</div>
-
 
 
 
